@@ -1,0 +1,1 @@
+# Explorando_Speech_Studio_e_Language_Studio_AZURE
